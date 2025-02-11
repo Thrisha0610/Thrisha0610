@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Thrisha0610
+- 👀 I’m interested in web development,e-commerce,sql projects.
+- 🌱 I’m currently learning machine learning,feature selection and classification models with AI.
+- 💻 I’m working on Fashion Fix, an interactive eCommerce website, and machine learning projects in healthcare.
+- 💞️ I’m looking to collaborate on AI-based diagnostics, web applications, and research projects.
+- 📫 Reach me at [Thrishaj0610@gmail.com].
+- 😄 Pronouns: She/Her.
