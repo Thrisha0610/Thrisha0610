@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thrisha0610
+- 👋 Hi, I’m Thrisha
 - 👀 I’m interested in web development,e-commerce,sql projects.
 - 🌱 I’m currently learning machine learning,feature selection and classification models with AI.
 - 💻 I’m working on Fashion Fix, an interactive eCommerce website, and machine learning projects in healthcare.
